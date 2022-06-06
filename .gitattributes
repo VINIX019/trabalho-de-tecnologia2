@@ -1,2 +1,55 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goblo esporte</title>
+    <style>
+       .logo{
+           text-align: center;
+       } 
+    </style>
+</head>
+    <div class="fundo">
+    <body background="fundo.png">
+    </div>
+        <div class="logo">
+        <img src="Ge.globo_logo.svg.png" width="100" height="100">
+        </div>
+      
+        <table border="0" align="center" width="700">
+            <tr>
+                <td height=""><img src=""></td>
+
+            </tr>
+            <tr>
+                <td colspan="2"><img src="vini jr.jpg"></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <h2>Jogador é pego dando uma fugidinha da concetração pré jogo</h2>
+                    <p>
+                        <strong>Vinicius Junior</strong> foi pego nesta noite de domingo fugindo da concetração antes do jogo contra o Japão às 7H20 no horário de brasília. Jogador não quis dar entrevistas para nós
+                        alegando que foi apenas em um mercado pois estava sem detergente em seu quarto de hotel.
+                        
+                    </p>
+                    <p>
+                        <strong>Tite</strong> fala que está decepcionado com atitude do jogador e que isso foi o estopim para que ele não seja mais convocado para a seleção,]
+                        e diz que isso são as más companhias do Real Madrid atual club do jogador e aponta nomes como Benzema(atacante do clube) e Eden Hazard (ponta esquerda do clube). 
+                    </p>
+                    <p>
+                        Apos entrevista Tite fala que Vinicius Junior será substítuido por Neymar Jr. na ponta esquerda, que terá 
+                        que lembrar da sua trajetoria de ouro pelo Barcelona, já que o jogador atuava nessa posição na época. 
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    
+                    <h4>Essa notícia é totalmente verdade 05/06/2022</h4>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
